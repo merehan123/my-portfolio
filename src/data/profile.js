@@ -8,7 +8,7 @@ const profile = {
 
   github: "https://github.com/merehan123",
 
-  linkedin: "https://www.linkedin.com/in/merehan-ibraheem/", // هنغيره بالرابط الحقيقي بعدين
+  linkedin: "https://www.linkedin.com/in/merehan-ibraheem/",
 
   email: "mailto:merehan.ibraheem@gmail.com",
   emailText: "merehan.ibraheem@gmail.com",

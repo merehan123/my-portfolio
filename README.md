@@ -1,16 +1,79 @@
-# React + Vite
+# 💼 Merehan Ibraheem — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built with React to showcase my skills, projects, experience, and professional background as an AI Engineer.
 
-Currently, two official plugins are available:
+The portfolio highlights my interests and experience in Artificial Intelligence, Machine Learning, Natural Language Processing, Data Analysis, and Data Engineering.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+🔗 https://merehan-portfolio.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 Modern and clean user interface
+- 📱 Fully responsive design
+- 👩‍💻 Professional introduction and profile
+- 🛠️ Technical skills showcase
+- 🚀 Projects section
+- 💼 Experience and training section
+- 📄 Resume / CV download
+- 📬 Contact section
+- 🔗 GitHub and LinkedIn links
+- ⚡ Smooth animations and transitions
+- 🌙 Modern dark-themed design
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Libraries & Tools
+
+- Vite
+- Framer Motion
+- React Icons
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```text
+my-portfolio/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   │   └── images/
+│   │
+│   ├── components/
+│   │
+│   ├── sections/
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Experience.jsx
+│   │   └── Contact.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
